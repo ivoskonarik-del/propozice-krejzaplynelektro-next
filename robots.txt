@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://krejza.com/sitemap.xml
